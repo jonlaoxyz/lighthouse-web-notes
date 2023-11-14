@@ -2,5 +2,5 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Jonathan Lao for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Jonathan](https://github.com/jonlaoxyz) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en) Web Development Bootcamp.
 
